@@ -1,1 +1,1 @@
-https://api.codemagic.io/apps/62cd606b25a6fcd62e75f3e1/62cd606b25a6fcd62e75f3e0/status_badge.svg
+[![Codemagic build status](https://api.codemagic.io/apps/62cd606b25a6fcd62e75f3e1/62cd606b25a6fcd62e75f3e0/status_badge.svg)](https://codemagic.io/apps/62cd606b25a6fcd62e75f3e1/62cd606b25a6fcd62e75f3e0/latest_build)
