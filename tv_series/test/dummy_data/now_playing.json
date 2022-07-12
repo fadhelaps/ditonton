@@ -1,0 +1,28 @@
+{
+  "dates": {
+    "maximum": "2021-05-23",
+    "minimum": "2021-04-05"
+  },
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/path.jpg",
+      "first_air_date": "2020-05-05",
+      "genre_ids": [1, 2, 3],
+      "id": 1,
+      "name": "Name",
+      "number_of_episodes": 1,
+      "number_of_seasons": 1,
+      "original_language": "Original Language",
+      "original_name": "Original Name",
+      "overview": "Overview",
+      "popularity": 1.0,
+      "poster_path": "/path.jpg",
+      "vote_average": 1.0,
+      "vote_count": 1,
+      "type": "Type"
+    }
+  ],
+  "total_pages": 47,
+  "total_results": 940
+}
