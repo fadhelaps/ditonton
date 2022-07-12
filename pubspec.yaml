@@ -49,8 +49,9 @@ dependencies:
   path_provider: ^2.0.2
   bloc_test: ^9.0.3
   flutter_bloc: ^8.0.1
-  dependencies:
   firebase_crashlytics: ^2.8.2
+  firebase_core: ^1.6.0
+
 
 
 
